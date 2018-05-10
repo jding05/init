@@ -1,0 +1,12 @@
+###############
+# network 11  #
+# #############
+
+# 11. Use the output of the previous command to find the name and IP address of
+the device that makes the link between you (local network) and the outside world
+
+The name and IP address of the device that makes the link between the local
+network and the outside world is "nat (10.90.1.11)".
+
+
+# Note: Network Address Translation(NAT)

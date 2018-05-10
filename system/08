@@ -1,0 +1,11 @@
+###############
+# system 08   #
+# #############
+
+# 8. What file contains the RSA keys that are authorized to connect via SSH?
+
+~/.ssh/authorized_keys
+
+
+# RSA (Rivest–Shamir–Adleman) is one of the first public-key cryptosystems
+#		and is widely used for secure data transmission

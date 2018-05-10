@@ -1,0 +1,9 @@
+###############
+# network 13  #
+# #############
+
+# 13. Figure out the server type.
+
+# to look up:  nslookup 10.51.1.253
+
+The server type is DHCP.

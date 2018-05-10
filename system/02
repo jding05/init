@@ -1,0 +1,13 @@
+###############
+# system 02   #
+# #############
+
+# 2. What command can you use to rename your system?
+
+hostname new_name
+
+
+# in order to use this command, you need sudo access, so go to your root to run
+# 	ex: root@debian
+# run : hostname jeff
+# --->: root@jeff

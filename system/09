@@ -1,0 +1,10 @@
+###############
+# system 09   #
+# #############
+
+# 9. What command lets you know who is connected to the System?
+
+who
+
+# man who to see further detail
+#	who -- display who is logged in

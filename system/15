@@ -1,0 +1,9 @@
+###############
+# system 15   #
+# #############
+
+# 15. Find the command that kills the background command’s process
+
+kill PID
+
+# man kill for more details

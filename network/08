@@ -1,0 +1,15 @@
+###############
+# network 08  #
+# #############
+
+# 8. Find the provider of slash16.org
+
+# whois prints out the information of input domains
+# man whois to see more.
+
+# for the command: run
+#whois slash16.org
+
+AWS
+
+# under namesever -- aws (Amazon Web Services) (AWS)

@@ -1,0 +1,12 @@
+###############
+# system 04   #
+# #############
+
+# 4. What command gives you the time since your system was last booted?
+
+uptime
+
+
+# Uptime utility displays the current time , the length of time the system
+#		has been up, the number of users, and the load average of the system
+#		over the last 1, 5, and 15 minutes

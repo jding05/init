@@ -1,0 +1,10 @@
+###############
+# system 01   #
+# #############
+
+# 1. In what file can you find the installed version of your Debian?
+
+etc/debian_version
+
+
+# you can find this file in your debian (virtual machine)

@@ -1,0 +1,12 @@
+###############
+# system 17   #
+# #############
+
+# 17. Find the command which gives the list of firewall rules
+
+iptable -L
+
+
+# source:
+# https://www.digitalocean.com/community/tutorials/how-to-list-and-delete-iptables-firewall-rules
+#  need sudo access

@@ -1,0 +1,11 @@
+###############
+# network 14  #
+# #############
+
+# 14. Use the Reverse DNS to find out the name of the server linked to
+# 		the 10.51.1.81 IP address
+
+# look up from:
+# 		nslookup 10.51.1.81
+
+echo dpm-master.42.us.org

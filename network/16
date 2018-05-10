@@ -1,0 +1,10 @@
+###############
+# network 16  #
+# #############
+
+# 16. Make the 46.19.122.85 address reroute to intra.42.fr
+'46.19.122.85	intra.42.fr'
+
+# since we don't have sudo access on /etc/hosts because its a read_only file
+# if we have sudo access
+# 	--> sudo echo "46.19.122.85	intra.42.fr" >> /etc/hosts

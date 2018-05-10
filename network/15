@@ -1,0 +1,7 @@
+###############
+# network 15  #
+# #############
+
+# 15. What file contains the local DNS entries?
+
+The local DNS entries are in the "/etc/hosts" file.

@@ -1,0 +1,12 @@
+###############
+# system 19   #
+# #############
+
+# 19. With the previous command, forbid all others
+
+iptables -P INPUT DROP
+
+
+
+# need sudo access
+# -P : policy -p chain target  (Change policy on chain to target)

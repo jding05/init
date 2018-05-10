@@ -1,0 +1,11 @@
+###############
+# network 02  #
+# #############
+
+# 2. Identify the IP address of the Ethernet interface
+
+# just get the ip address
+#	ipconfig getifaddr en0
+
+# more infomation
+networksetup -getinfo Ethernet

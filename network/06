@@ -1,0 +1,19 @@
+###############
+# network 06  #
+# #############
+
+# 6. Get the complete path of the file that contains the IP address of
+#		the DNS server you’re using
+
+
+# This is known as resolver configuration file.
+# command:
+# less /etc/resolv.conf
+
+# answer
+/etc/resolv.conf
+
+
+# but in order to see whcih DNS you are using
+# 	you can use the command:
+#			scutil --dns | grep nameserver

@@ -1,0 +1,7 @@
+###############
+# system 07   #
+# #############
+
+# 7. Figure out the PID of the SSHD service.
+
+ps aux | grep ssh | head -n 1
